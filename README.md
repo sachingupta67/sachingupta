@@ -1,10 +1,8 @@
 <h1 align="center">Hi 👋, I'm Sachin Gupta</h1>
 <h3 align="center">Passionate Tech Lead from India with 8 years of experience in web development. Specializing in React, Next.js, TypeScript, and a tech stack featuring Redux, React Hooks, HTML, CSS, SCSS, Material UI, Bootstrap. Let's create innovative solutions together! 🚀🇮🇳 #CodeEnthusiast"</h3>
-<img alt=“coding” align=“right” width=“400” src =“https://user-images.githubusercontent.com/74038190/238353480-219bcc70-f5dc-466b-9a60-29653d8e8433.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sachingupta67&label=Profile%20views&color=0e75b6&style=flat" alt="sachingupta67" /> </p>
+<img alt="coding" align="right" width="400" src ="https://user-images.githubusercontent.com/74038190/238353480-219bcc70-f5dc-466b-9a60-29653d8e8433.gif">
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sachingupta67" alt="sachingupta67" /></a> </p>
 
 - 💬 Ask me about **React , Next JS , TypeScript , JavaScript , Redux , React Native , CI/CD , Jenkins , Docker , AWS etc...**
 
@@ -22,9 +20,3 @@
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/sachingupta.coder"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="sachingupta.coder" /></a><a href="https://ko-fi.com/sachingupta.coder"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="sachingupta.coder" /></a></p><br><br>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sachingupta67&show_icons=true&locale=en&layout=compact" alt="sachingupta67" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sachingupta67&show_icons=true&locale=en" alt="sachingupta67" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sachingupta67&" alt="sachingupta67" /></p>
